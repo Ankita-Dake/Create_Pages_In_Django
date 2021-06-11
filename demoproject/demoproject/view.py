@@ -19,7 +19,7 @@ def login(request):
 
 
 def registration(request):
-    return HttpResponse('<h1 style="text-align:center; color:pink; padding:50px;"> This is Contact Page</h1>')
+    return HttpResponse('<h1 style="text-align:center; color:pink; padding:50px;"> This is Registration Page</h1>')
 
 
 def feedback(request):
